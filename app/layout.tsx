@@ -8,7 +8,7 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Adin Prasetya | Developer Portfolio",
+  title: "Adin Prasetya | Portfolio",
   description:
     "Portfolio Adin Prasetya, mahasiswa Ilmu Komputer dan developer yang tertarik pada web, mobile, database, dan teknologi digital.",
 };
