@@ -16,7 +16,7 @@ const content = {
     projects: { eyebrow: "KARYA PILIHAN", title: "Ide yang sedang", accent: "bertumbuh", lead: "Beberapa hal yang saya pelajari, bangun, dan kembangkan sejauh ini.", descriptions: ["Pengalaman web personal yang mengubah ucapan ulang tahun menjadi sesuatu yang berkesan.", "Konsep aplikasi mobile untuk mengatur jadwal kuliah dan pengingat harian dengan praktis.", "Gagasan tahap awal untuk memudahkan pengelolaan informasi program kuliah kerja mahasiswa."], personal: "Proyek pribadi", concept: "Dalam pengembangan / konsep", index: "PROYEK", selected: "KARYA PILIHAN", scheduleTitle: "Pengingat Jadwal Kuliah" },
     experience: { eyebrow: "PERJALANAN SEJAUH INI", title: "Pengalaman &", accent: "Pendidikan", lead: "Peran kecil, tujuan bersama, dan banyak ruang untuk terus berkembang.", organization: "Organisasi", education: "Pendidikan", entries: "ENTRI", typeOrganization: "Organisasi", typeEducation: "Pendidikan", current: "SEDANG MENEMPUH PENDIDIKAN", note: "Setiap pengalaman membawa sudut pandang baru.", certificates: "Sertifikat & Kegiatan", certificateName: "ToT Literasi Digital LDNU", certificateTheme: "Media Digital Sarana Efektif Dakwah Kaum Milineal", certificateOrganizer: "Tim Literasi Digital Kominfo bersama LD PBNU", certificateType: "SERTIFIKAT KEGIATAN", certificateLabel: "Nama" },
     education: { universityPeriod: "2023–Sekarang", universityProgram: "Program Studi Ilmu Komputer · Semester 7", highSchoolPeriod: "2020–2023", highSchoolProgram: "IPS" },
-    contact: { eyebrow: "IDE ANDA DIMULAI DI SINI", titleFirst: "Mari Bangun", titleSecond: "Sesuatu", titleThird: "Bersama", lead: "Punya ide, pertanyaan, atau ingin berkolaborasi? Saya senang mendengar kabar dari Anda.", location: "Serang, Banten, Indonesia", availability: "Tersedia untuk kolaborasi jarak jauh", emailLabel: "Email placeholder:", formHeading: "KIRIM PESAN", name: "Nama Anda", namePlaceholder: "Siapa nama Anda?", email: "Alamat email", message: "Ceritakan ide Anda", messagePlaceholder: "Ceritakan apa yang sedang Anda pikirkan...", submit: "Pratinjau pesan", disclaimer: "Ini hanya pratinjau formulir dan tidak mengirim email.", response: "Ini hanya pratinjau formulir. Silakan hubungi saya melalui tautan sosial.", footer: "DIBUAT DENGAN RASA INGIN TAHU", back: "KEMBALI KE AWAL" },
+    contact: { eyebrow: "IDE ANDA DIMULAI DI SINI", titleFirst: "Mari Bangun", titleSecond: "Sesuatu", titleThird: "Bersama", lead: "Punya ide, pertanyaan, atau ingin berkolaborasi? Saya senang mendengar kabar dari Anda.", location: "Serang, Banten, Indonesia", availability: "Tersedia untuk kolaborasi jarak jauh", emailLabel: "Email placeholder:", formHeading: "KIRIM PESAN", name: "Nama Anda", namePlaceholder: "Siapa nama Anda?", email: "Alamat email", message: "Ceritakan ide Anda", messagePlaceholder: "Ceritakan apa yang sedang Anda pikirkan...", submit: "Kirim pesan", sending: "Mengirim...", disclaimer: "Pesan Anda akan dikirim langsung melalui email.", response: "Pesan berhasil dikirim. Terima kasih sudah menghubungi saya!", error: "Pesan gagal dikirim. Silakan coba lagi beberapa saat.", footer: "DIBUAT DENGAN RASA INGIN TAHU", back: "KEMBALI KE AWAL" },
     decorative: { toolkit: "PERANGKAT SAYA", selectedWork: "KARYA PILIHAN", project: "PROYEK", selected: "KARYA PILIHAN", profile: "profil.ts", madeIdeas: "DIBUAT DARI IDE", findMe: "Temukan saya di", scene: "Adegan" },
   },
   en: {
@@ -27,7 +27,7 @@ const content = {
     projects: { eyebrow: "SELECTED WORK", title: "Ideas in", accent: "progress", lead: "A few things I have been learning, building, and shaping along the way.", descriptions: ["A personal web experience that turns a birthday message into something memorable.", "A mobile concept for keeping lecture schedules and everyday reminders in one clear place.", "An early-stage idea for making community service program information easier to organize."], personal: "Personal project", concept: "In development / concept", index: "PROJECT", selected: "SELECTED PROJECT", scheduleTitle: "Lecture Schedule Reminder" },
     experience: { eyebrow: "THE PATH SO FAR", title: "Experience &", accent: "Education", lead: "Small roles, shared goals, and plenty of room to keep growing.", organization: "Organization", education: "Education", entries: "ENTRIES", typeOrganization: "Organization", typeEducation: "Education", current: "CURRENTLY STUDYING", note: "Every experience adds a new perspective.", certificates: "Certificates & Activities", certificateName: "ToT Literasi Digital LDNU", certificateTheme: "Media Digital Sarana Efektif Dakwah Kaum Milineal", certificateOrganizer: "Tim Literasi Digital Kominfo bersama LD PBNU", certificateType: "CERTIFICATE OF ACTIVITY", certificateLabel: "Name" },
     education: { universityPeriod: "2023–Present", universityProgram: "Computer Science · Semester 7", highSchoolPeriod: "2020–2023", highSchoolProgram: "Social Sciences" },
-    contact: { eyebrow: "YOUR NEXT IDEA STARTS HERE", titleFirst: "Let's Build", titleSecond: "Something", titleThird: "Together", lead: "Have an idea, a question, or want to collaborate? I would be glad to hear from you.", location: "Serang, Banten, Indonesia", availability: "Available for remote collaboration", emailLabel: "Email placeholder:", formHeading: "DROP A NOTE", name: "Your name", namePlaceholder: "What should I call you?", email: "Email address", message: "A little about your idea", messagePlaceholder: "Tell me what you have in mind...", submit: "Preview message", disclaimer: "This is a visual form preview and does not send email.", response: "This is a visual form preview. Please use the social links to get in touch.", footer: "MADE WITH CURIOSITY", back: "BACK TO START" },
+    contact: { eyebrow: "YOUR NEXT IDEA STARTS HERE", titleFirst: "Let's Build", titleSecond: "Something", titleThird: "Together", lead: "Have an idea, a question, or want to collaborate? I would be glad to hear from you.", location: "Serang, Banten, Indonesia", availability: "Available for remote collaboration", emailLabel: "Email placeholder:", formHeading: "DROP A NOTE", name: "Your name", namePlaceholder: "What should I call you?", email: "Email address", message: "A little about your idea", messagePlaceholder: "Tell me what you have in mind...", submit: "Send message", sending: "Sending...", disclaimer: "Your message will be sent directly by email.", response: "Your message was sent successfully. Thank you for reaching out!", error: "Your message could not be sent. Please try again shortly.", footer: "MADE WITH CURIOSITY", back: "BACK TO START" },
     decorative: { toolkit: "MY TOOLKIT", selectedWork: "SELECTED WORK", project: "PROJECT", selected: "SELECTED PROJECT", profile: "profile.ts", madeIdeas: "MADE OF IDEAS", findMe: "Find me on", scene: "scene" },
   },
 } as const;
@@ -134,7 +134,8 @@ function LanguageText({ text, reducedMotion }: { text: string; reducedMotion: bo
 export default function Home() {
   const [activePage, setActivePage] = useState<Page>("home");
   const [direction, setDirection] = useState(1);
-  const [formSubmitted, setFormSubmitted] = useState(false);
+  const [formStatus, setFormStatus] = useState<"success" | "error" | "">("");
+  const [isSubmitting, setIsSubmitting] = useState(false);
   const [language, setLanguage] = useState<Language>("id");
   const [theme, setTheme] = useState<Theme>("light");
   const prefersReducedMotion = useReducedMotion() ?? false;
@@ -187,9 +188,29 @@ export default function Home() {
     setActivePage(page);
   }
 
-  function handleContactSubmit(event: FormEvent<HTMLFormElement>) {
+  async function handleContactSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
-    setFormSubmitted(true);
+    setIsSubmitting(true);
+    setFormStatus("");
+
+    const formData = new FormData(event.currentTarget);
+    try {
+      const response = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: formData.get("name"),
+          email: formData.get("email"),
+          message: formData.get("message"),
+        }),
+      });
+
+      setFormStatus(response.ok ? "success" : "error");
+    } catch {
+      setFormStatus("error");
+    } finally {
+      setIsSubmitting(false);
+    }
   }
 
   const scenes: Record<Page, ReactNode> = {
@@ -202,7 +223,7 @@ export default function Home() {
           <motion.p className="hero-description" initial={{ opacity: 0, y: 14 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.45, duration: 0.55 }}>{tx(t.hero.description)}</motion.p>
           <motion.div className="hero-actions" initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.52, duration: 0.5 }}>
             <button className="button button-primary" onClick={() => navigateTo("projects")}>{tx(t.hero.projects)} <span aria-hidden="true">↗</span></button>
-            <button className="button button-quiet" disabled title={t.hero.cvUnavailable}>{tx(t.hero.cv)} <span className="button-download" aria-hidden="true">↓</span></button>
+            <a className="button button-quiet" href="/CV_Adin_Prasetya.pdf" download="CV_Adin_Prasetya.pdf">{tx(t.hero.cv)} <span className="button-download" aria-hidden="true">↓</span></a>
           </motion.div>
           <motion.div className="hero-socials" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.7, duration: 0.6 }}><span className="social-label">{tx(t.hero.socials)}</span>{profiles.map((profile) => <a key={profile.name} href={profile.href} target="_blank" rel="noreferrer" aria-label={`${profile.name}`}>{profile.name}</a>)}</motion.div>
         </div>
@@ -239,8 +260,8 @@ export default function Home() {
       </div>
     ),
     contact: (
-      <div className="page-width scene-inner contact-scene"><div className="contact-copy"><p className="eyebrow"><span className="eyebrow-dot" /> {tx(t.contact.eyebrow)}</p><h1>{tx(t.contact.titleFirst)}<br /><span>{tx(t.contact.titleSecond)}</span><br />{tx(t.contact.titleThird)}</h1><p className="contact-lead">{tx(t.contact.lead)}</p><div className="contact-location"><span className="location-pin" /><div><strong>{tx(t.contact.location)}</strong><small>{tx(t.contact.availability)}</small></div></div><div className="contact-socials">{profiles.map((profile) => <a href={profile.href} target="_blank" rel="noreferrer" key={profile.name}><span>{profile.mark}</span>{profile.name}<i aria-hidden="true">↗</i></a>)}</div><p className="email-placeholder">{tx(t.contact.emailLabel)} <a href="mailto:adinprasetya1999@example.com">adinprasetya1999@example.com</a></p></div>
-        <div className="contact-form-wrap"><div className="form-heading"><span>{tx(t.contact.formHeading)}</span><span className="form-stamp">AP / 06</span></div><form className="contact-form" onSubmit={handleContactSubmit}><label htmlFor="contact-name">{tx(t.contact.name)}<span className="field-control"><input id="contact-name" name="name" placeholder=" " required /><span className="field-placeholder" aria-hidden="true">{tx(t.contact.namePlaceholder)}</span></span></label><label htmlFor="contact-email">{tx(t.contact.email)}<input id="contact-email" type="email" name="email" placeholder="you@example.com" required /></label><label htmlFor="contact-message">{tx(t.contact.message)}<span className="field-control"><textarea id="contact-message" name="message" placeholder=" " rows={4} required /><span className="field-placeholder" aria-hidden="true">{tx(t.contact.messagePlaceholder)}</span></span></label><button className="button button-primary form-submit" type="submit">{tx(t.contact.submit)} <span aria-hidden="true">↗</span></button><p className="form-disclaimer">{tx(t.contact.disclaimer)}</p><p className="form-status" aria-live="polite">{formSubmitted ? tx(t.contact.response) : ""}</p></form></div>
+      <div className="page-width scene-inner contact-scene"><div className="contact-copy"><p className="eyebrow"><span className="eyebrow-dot" /> {tx(t.contact.eyebrow)}</p><h1>{tx(t.contact.titleFirst)}<br /><span>{tx(t.contact.titleSecond)}</span><br />{tx(t.contact.titleThird)}</h1><p className="contact-lead">{tx(t.contact.lead)}</p><div className="contact-location"><span className="location-pin" /><div><strong>{tx(t.contact.location)}</strong><small>{tx(t.contact.availability)}</small></div></div><div className="contact-socials">{profiles.map((profile) => <a href={profile.href} target="_blank" rel="noreferrer" key={profile.name}><span>{profile.mark}</span>{profile.name}<i aria-hidden="true">↗</i></a>)}</div><p className="email-placeholder">{tx(t.contact.emailLabel)} <a href="mailto:adinprasetya1999@gmail.com">adinprasetya1999@gmail.com</a></p></div>
+        <div className="contact-form-wrap"><div className="form-heading"><span>{tx(t.contact.formHeading)}</span><span className="form-stamp">AP / 06</span></div><form className="contact-form" onSubmit={handleContactSubmit}><label htmlFor="contact-name">{tx(t.contact.name)}<span className="field-control"><input id="contact-name" name="name" placeholder=" " required /><span className="field-placeholder" aria-hidden="true">{tx(t.contact.namePlaceholder)}</span></span></label><label htmlFor="contact-email">{tx(t.contact.email)}<input id="contact-email" type="email" name="email" placeholder="you@example.com" required /></label><label htmlFor="contact-message">{tx(t.contact.message)}<span className="field-control"><textarea id="contact-message" name="message" placeholder=" " rows={4} required /><span className="field-placeholder" aria-hidden="true">{tx(t.contact.messagePlaceholder)}</span></span></label><button className="button button-primary form-submit" type="submit" disabled={isSubmitting}>{tx(isSubmitting ? t.contact.sending : t.contact.submit)} <span aria-hidden="true">↗</span></button><p className="form-disclaimer">{tx(t.contact.disclaimer)}</p><p className="form-status" aria-live="polite">{formStatus === "success" ? tx(t.contact.response) : formStatus === "error" ? tx(t.contact.error) : ""}</p></form></div>
         <footer className="site-footer"><span>ADIN PRASETYA <i>·</i> PORTFOLIO</span><span>{tx(t.contact.footer)} <i>✳</i> 2026</span><button onClick={() => navigateTo("home")}>{tx(t.contact.back)} <span aria-hidden="true">↑</span></button></footer>
       </div>
     ),
